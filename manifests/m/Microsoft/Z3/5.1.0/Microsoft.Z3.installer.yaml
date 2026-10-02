@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Microsoft.Z3
 PackageVersion: 5.1.0
@@ -25,4 +25,4 @@ Installers:
   InstallerUrl: https://github.com/Z3Prover/z3/releases/download/z3-5.1.0/z3-5.1.0-x86-win.zip
   InstallerSha256: 0E8CE9CDCFA5650FEF7B72234656E12D23D28C34035C6A61E6F55432B99FBE07
 ManifestType: installer
-ManifestVersion: 1.10.0
+ManifestVersion: 1.12.0
